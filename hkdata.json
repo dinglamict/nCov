@@ -1,0 +1,132 @@
+﻿{
+  "results": [
+    {
+      "country": "中国",
+      "provinceName": "香港",
+      "provinceShortName": "香港",
+      "confirmedCount": 74,
+      "suspectedCount": 119,
+      "curedCount": 12,
+      "deadCount": 2,
+      "cities": [
+        {
+          "cityName": "东区",
+          "confirmedCount": 14,
+          "curedCount": 3,
+          "currentConfirmedCount": 11,
+          "deadCount": 0,
+          "suspectedCount": 0
+        },
+        {
+          "cityName": "中西区",
+          "confirmedCount": 1,
+          "curedCount": 0,
+          "currentConfirmedCount": 1,
+          "deadCount": 0,
+          "suspectedCount": 0
+        },
+        {
+          "cityName": "九龙城区",
+          "confirmedCount": 4,
+          "curedCount": 1,
+          "currentConfirmedCount": 2,
+          "deadCount": 1,
+          "suspectedCount": 0
+        },
+        {
+          "cityName": "元朗区",
+          "confirmedCount": 1,
+          "curedCount": 0,
+          "currentConfirmedCount": 1,
+          "deadCount": 0,
+          "suspectedCount": 0
+        },
+         {
+          "cityName": "北区",
+          "confirmedCount": 1,
+          "curedCount": 0,
+          "currentConfirmedCount": 1,
+          "deadCount": 0,
+          "suspectedCount": 0
+        },
+        {
+          "cityName": "南区",
+          "confirmedCount": 3,
+          "curedCount": 0,
+          "currentConfirmedCount": 3,
+          "deadCount": 0,
+          "suspectedCount": 0
+        },
+        {
+          "cityName": "屯门区",
+          "confirmedCount": 4,
+          "curedCount": 0,
+          "currentConfirmedCount": 4,
+          "deadCount": 0,
+          "suspectedCount": 0
+        },
+         {
+          "cityName": "沙田区",
+          "confirmedCount": 4,
+          "curedCount": 0,
+          "currentConfirmedCount": 4,
+          "deadCount": 0,
+          "suspectedCount": 0
+        },
+        {
+          "cityName": "油尖旺区",
+          "confirmedCount": 1,
+          "curedCount": 1,
+          "currentConfirmedCount": 0,
+          "deadCount": 0,
+          "suspectedCount": 0
+        },
+        {
+          "cityName": "湾仔区",
+          "confirmedCount": 12,
+          "curedCount": 3,
+          "currentConfirmedCount": 9,
+          "deadCount": 0,
+          "suspectedCount": 0
+        },
+        {
+          "cityName": "葵青区",
+          "confirmedCount": 9,
+          "curedCount": 1,
+          "currentConfirmedCount": 7,
+          "deadCount": 1,
+          "suspectedCount": 0
+        },
+        {
+          "cityName": "西贡区",
+          "confirmedCount": 2,
+          "curedCount": 0,
+          "currentConfirmedCount": 2,
+          "deadCount": 0,
+          "suspectedCount": 0
+        },
+        {
+          "cityName": "观塘区",
+          "confirmedCount": 7,
+          "curedCount": 0,
+          "currentConfirmedCount": 7,
+          "deadCount": 0,
+          "suspectedCount": 0
+        },
+        {
+          "cityName": "黄大仙区",
+          "confirmedCount": 2,
+          "curedCount": 0,
+          "currentConfirmedCount": 2,
+          "deadCount": 0,
+          "suspectedCount": 0
+        }
+      ],
+      "comment": "",
+      "updateTime": 1582365268372,
+      "createTime": 0,
+      "modifyTime": 0
+    }
+  ],
+  "success": true
+}
